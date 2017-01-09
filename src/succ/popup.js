@@ -29,4 +29,5 @@ function handleText(textNode) {
         v = v.replace(RegExp(/\BCK/, "g"), "CC");
         textNode.nodeValue = v;
 }
-walk(document.body)
+
+window.addEventListener("load", function(event) {walk(document.body)});
