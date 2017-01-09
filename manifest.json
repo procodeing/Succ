@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Succer",
+  "description": "A modified version Regex Replace",
+  "version": "1337.69",
+
+    "permissions": ["tabs", "http://*/*", "https://*/*"],
+    "content_scripts" : [{
+        "matches" : [ "<all_urls>"],
+        "js" : ["popup.js"]
+    }]
+
+  
+}
