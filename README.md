@@ -1,5 +1,6 @@
 # Succ
 The chrome extention that 2016 needed.
+Turns every ck into cc, except when ck is the start of a word.
 
 ## Installation
 
@@ -12,6 +13,8 @@ The chrome extention that 2016 needed.
 
 ## Known bugs
 
-Dosn't affect Iframes
+Dosn't affect Iframes (So it wont work on google search)
 
 ## Credit
+
+This is a modified version of [Regex Replace](https://chrome.google.com/webstore/detail/regex-replace/eggkcpojddgjkakokkdhocbjebhgkonb), which was created by [Jack Kingsman](http://jacksbrain.com/)
