@@ -25,7 +25,7 @@ function walk(node) {
 function handleText(textNode) {
     var v = textNode.nodeValue;
         
-        v = v.replace(RegExp(/\Bck/, "g"), "cc");
+        v = v.replace(RegExp(/\Bcc/, "g"), "cc");
         textNode.nodeValue = v;
 }
 walk(document.body)
