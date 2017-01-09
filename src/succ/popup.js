@@ -31,3 +31,4 @@ function handleText(textNode) {
 }
 
 window.addEventListener("load", function(event) {walk(document.body)});
+walk(document.body)
