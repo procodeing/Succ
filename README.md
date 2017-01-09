@@ -1,5 +1,4 @@
 # Succ
-The chrome extention that 2016 needed.
 Turns every ck into cc, except when ck is the start of a word.
 
 ## Installation
