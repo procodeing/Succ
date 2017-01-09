@@ -9,3 +9,9 @@ The chrome extention that 2016 needed.
 4. Click "Load Unpacked Extention
 5. Navigate to the directory that you downloaded the succ folder in, and chose the succ folder
 6. Whenever you restart your browser, it will warn you the succ is installed. Just accept and ignore this message
+
+## Known bugs
+
+Dosn't affect Iframes
+
+## Credit
