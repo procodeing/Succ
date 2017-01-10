@@ -1,3 +1,5 @@
+[![GitHub release](https://img.shields.io/github/release/procodeing/Succ.svg)]
+
 # Succ
 Turns every ck into cc, except when ck is the start of a word.
 
