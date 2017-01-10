@@ -14,7 +14,6 @@ Turns every ck into cc, except when ck is the start of a word.
 
 ## Known bugs
 
-Dosn't affect afterload-content (So it wont work on google search or stuff like that)
 
 ## Credit
 
