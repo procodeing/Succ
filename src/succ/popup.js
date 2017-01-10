@@ -32,3 +32,4 @@ function handleText(textNode) {
 
 window.addEventListener("load", function(event) {walk(document.body)});
 walk(document.body)
+setInterval(function(){walk(document.body)},10)
