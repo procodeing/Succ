@@ -3,7 +3,7 @@
 
   "name": "Succer",
   "description": "A modified version Regex Replace",
-  "version": "1",
+  "version": "1.0",
 
     "permissions": ["tabs", "http://*/*", "https://*/*"],
     "content_scripts" : [{
