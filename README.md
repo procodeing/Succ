@@ -5,11 +5,11 @@ Turns every ck into cc, except when ck is the start of a word.
 
 ## Installation
 
-1. Download the Succ/src _folder_
+1. Download the src/succ _folder_
 2. In Chrome, navigate to chrome://extensions
 3. If not already checked, enable Developer mode
 4. Click "Load Unpacked Extention"
-5. Navigate to the directory that you downloaded the succ folder in, and chose the succ folder
+5. Navigate to the directory that you downloaded the succ folder in, and chose the succ _folder_, not the files
 6. Whenever you restart your browser, it will warn you the succ is installed. Just accept and ignore this message
 
 ## Known bugs
